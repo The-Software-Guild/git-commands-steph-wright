@@ -26,7 +26,7 @@ public class RockPaperScissors {
             System.out.println("How many rounds do you want to play? Maximum 10.");
             Scanner scanner = new Scanner(System.in);
             int maxRounds = scanner.nextInt();
-            if (rounds > 1 || rounds <= 10) {
+            if (rounds >= 1 || rounds <= 10) {
                 // Do the number of rounds specified
                 while (rounds < maxRounds) {
                     // Simulate a round
