@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="016dce46-da7d-4125-afe8-d6048e369ef2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CatchUp/ExperiencedEmployees/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatchUp/LombokDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatchUp/MavenExampleProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatchUp/NumbersLinkedHashMap/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.~lock.flowchartInterestCalculator.odt#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeAlongWindow/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeAlongWindow/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeAlongWindow/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeAlongWindow/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeAlongWindow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeAlongWindow/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeAlongWindow/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeAlongWindow/src/CodeAlongWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeAlongWindow/src/CodeAlongWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DogGenetics/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DogGenetics/src/main/java/com/mycompany/doggenetics/DogGenetics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorizer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factorizer/src/main/java/com/mycompany/factorizer/Factorizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HealthyHearts/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HealthyHearts/src/main/java/com/mycompany/healthyhearts/HealthyHearts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMG_20221014_110806.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMG_20221014_110811.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMG_20221014_110816.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterestCalculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterestCalculator/src/main/java/com/mycompany/interestcalculator/InterestCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuckySevens/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuckySevens/src/main/java/com/mycompany/luckysevens/LuckySevens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/src/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/basics/core/ABeginning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/basics/core/AllTheMaths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/arrays/ARainbow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/arrays/HiddenNuts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/FourAndTwentyBlackBirds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/TraditionalFizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/BirthStones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/FieldDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/GuessMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/KnockKnock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/LlamasWhalesAndDodosOhMy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/MiniZork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/PickyEater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/SpaceRustlers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/TriviaNight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/YourLifeInMovies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/methods/BarelyControlledChaos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/methods/MethodToTheMadness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/ALittleChaos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/CoinFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/FortuneCookie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/GuessMeMore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/HighRoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/Opinionator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/LazyTeenager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/WaitAWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/scanner/MiniMadLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/scanner/QuestForTheUserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/variables/BestAdderEver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming/src/main/java/com/sg/foundations/variables/InABucket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RockPaperScissors/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RockPaperScissors/src/main/java/com/mycompany/rockpaperscissors/RockPaperScissors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummativeSums/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SummativeSums/src/main/java/com/mycompany/summativesums/SummativeSums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flowchartInterestCalculator.odt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HLtpKb96g3TpEyO9BvgeKHs5MN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/steph/Desktop/Aspire/BookLibrary"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BookClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sujata.client.BookClient" />
+      <module name="BookLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sujata.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BookLibrary" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BookLibrary" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="016dce46-da7d-4125-afe8-d6048e369ef2" name="Changes" comment="" />
+      <created>1668076373394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668076373394</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
